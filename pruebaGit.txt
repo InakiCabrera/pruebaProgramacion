@@ -2,7 +2,12 @@ buenass
 bianchi 
 la concha de tu madre
 
-VELEZ SE VA A LA B JUJU
+VELEZ SE VA A a LA B
 
-
+<<<<<<< HEAD
 Riquelme puto
+=======
+PARA SER GRANDE HAY QUE SER CAMPEON DEL MUNDO
+>>>>>>> 9b19b4a6cfaf4bef2c1dc8491477b6cca90f1b59
+
+la concha de tu madre all boyyyysssss

@@ -1,7 +1,11 @@
 buenass
 bianchi 
 
-VELEZ SE VA A a LA B
+VELEZ SE VA A LA B 
+ABANDONOB
 
+<<<<<<< HEAD
 PARA SER GRANDE HAY QUE SER CAMPEON DEL MUNDO
 
+=======
+>>>>>>> c1fecfc3727c50077b1eb6e6c3f71b3cda5e363f
